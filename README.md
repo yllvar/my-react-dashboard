@@ -1,11 +1,16 @@
 # react-assessment
 
-## Instructions
-
 ## Node version 20.x
 
-Please clone this repo and do the following assessment
+## Instructions
+Please clone this repo and do the following assessment:
 
-Using Redux , create a resize, drag and drop for 
+Create a resize and reposition using appropriate libs to the below charts and tables with the following mock data from Redux.
 - tables
-- charts
+- line charts
+- pie charts
+- bar charts
+
+
+
+
