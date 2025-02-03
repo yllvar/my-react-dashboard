@@ -22,13 +22,14 @@ This documentation covers the modifications and enhancements made to the origina
 1. Chart resize performance
 
 1.1. Implemented debouncing
-1.2. Added size change detection
 
+1.2. Added size change detection
 
 
 2. Mobile layout optimization
 
 2.1. Added specific breakpoints
+
 2.2. Modified minimum widget sizes
 
 ## Usage Instructions
